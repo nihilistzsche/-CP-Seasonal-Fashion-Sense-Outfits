@@ -1,0 +1,16 @@
+{
+   "Name": "[CP] Seasonal Fashion Sense Outfits",
+   "Author": "nihilistzsche",
+   "Version": "0.1.1",
+   "Description": "Change outfit dynamically per season using Fashion Sense and FashiongSenseOutfits",
+   "UniqueID": "nihilistzsche.SeasonalFashionSenseOutfits",
+   "MinimumApiVersion": "3.13.0",
+   "UpdateKeys": [],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher",
+      "MinimumVersion": "1.3.1"
+   },
+   "Dependencies": [
+	{ "UniqueID": "nihilistzsche.FashionSenseOutfits", "IsRequired": true }
+  ]
+}

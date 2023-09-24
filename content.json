@@ -1,0 +1,14 @@
+{
+  "Format": "1.29.0",
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "nihilistzsche.FashionSenseOutfits/Outfits",
+      "Fields": {
+        "CurrentOutfit": {
+          "OutfitID": "{{Season}}"
+        }
+      }
+    }
+  ]
+}
