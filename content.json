@@ -5,7 +5,7 @@
       "Action": "EditData",
       "Target": "nihilistzsche.FashionSenseOutfits/Outfits",
       "Fields": {
-        "CurrentOutfit": {
+        "RequestedOutfit": {
           "OutfitID": "{{Season}}"
         }
       }
